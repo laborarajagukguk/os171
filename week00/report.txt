@@ -1,2 +1,2 @@
 #laborawaty_rajagukguk
-
+Praktikum pada week 00 melakukan pendaftaran akun github, dan pembuatan folder os171 di akun github pribadi. Dan mencoba untuk mengakses server badak.cs.ui.ac.id melalui kawung.cs.ui.ac.id.
