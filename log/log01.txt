@@ -3,4 +3,5 @@ w01-170214-19-LR-About: Hak Kekayaan Intelektual From: Lecturer
 w01-170214-20-LR-About: Introduction to Shell Scripting From: Lecturer
 w01-170214-20-PS-About: Trying to make a simple script
 w01-170214-21-PS-Doing a task about script From: Lecturer
-w01-170218-13-PS-
+w01-170214-23-PS-Doing Lab Session [Task 1] CLI, GIT AND SCRIPTING
+w01-170218-11-PS-Continue doing Lab Session

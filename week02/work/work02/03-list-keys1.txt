@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/l/laborawaty.rajagukguk/.gnupg/pubring.gpg
+-------------------------------------------------------------------
+pub   4096R/8198C8FE 2017-02-22 [expires: 2017-08-21]
+uid                  Laborawaty Rajagukguk (sejauh ini belajar OS menarik) <laborawaty.rajagukguk@ui.ac.id>
+sub   4096R/FB25FBC2 2017-02-22 [expires: 2017-08-21]
+
