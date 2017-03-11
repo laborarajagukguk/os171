@@ -1,0 +1,11 @@
+w04-170307-19-LR-About : Addressing From : Lecturer
+w04-170307-19-LR-About : Pointers From : Lecturer
+w04-170307-20-LR-About : I/O Programming From : Lecturer
+w04-170307-20-PS- Trying Pointers using C
+w04-170307-21-PS- Trying I/O Programming using c
+w04-170311-10-PS- Doing Task 4 Pointer & I/O
+w04-170311-10-PS- Continue Task 4
+w04-170311-11-PS- Continue Task 4
+w04-170311-11-PS- Continue Task 4
+w04-170311-12-PS- Continue Task 4
+w04-170311-12-PS Continue Task 4
