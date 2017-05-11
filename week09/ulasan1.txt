@@ -1,7 +1,7 @@
-Github Account : laborarajagukguk
-URL Ulasan :http://1606954855-os171.blogspot.com/2017/05/ulasan1.html
-URL Video : 
-Video Author : 
-Pemetaan : 
+Github Account  : laborarajagukguk
+URL Ulasan : http://1606954855-os171.blogspot.co.id/2017/05/ulasan-1.html
+URL Video : https://youtu.be/yteymev-bbk
+Video Author : Udacity
+Pemetaan : week-02
 Revisi Pertama : 06 Mei 2017
-Revisi Terakhir : 
+Revisi Terakhir : 11 Mei 2017
